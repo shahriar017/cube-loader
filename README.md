@@ -1,2 +1,2 @@
 # cube-loader
-Pure css loading screen
+Cube loader is a pure css loading screen.
